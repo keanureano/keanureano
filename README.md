@@ -1,1 +1,1 @@
-[![Keanu's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keanureano&theme=github_dark)](https://github.com/keanureano/)
+[![Keanu's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=keanureano&theme=github_dark)](https://github.com/keanureano/)
